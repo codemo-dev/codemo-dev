@@ -51,7 +51,7 @@ A dedicated Front-End Developer with a strong foundation in JavaScript and moder
 ---
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodemo-dev&count_bg=%2322272E&title_bg=%2330363D&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" />
+  <img src="https://komarev.com/ghpvc/?username=codemo-dev&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <br>
   <sub>"Building the future, one line of code at a time."</sub>
 </div>
