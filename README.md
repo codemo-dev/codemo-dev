@@ -1,60 +1,54 @@
 <div align="center">
-  <h1>Hi, I'm Mohamed (codemo-dev) 🚀</h1>
-  <p><strong>Front-End Engineer | UI/UX Enthusiast | Problem Solver</strong></p>
-
+  <h1>Hi, I'm Mohamed 🚀</h1>
+  <p><strong>Front-End Engineer | UI/UX Specialist | Logic Builder</strong></p>
+  
   <p>
-    <a href="https://www.linkedin.com/in/codemo-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/codemo.devx/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://www.facebook.com/share/1WkPfFWVTv/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
-    <a href="mailto:mohamed.eshagx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://codemo-dev.github.io/codemo-site/"><strong>🌐 Explore My Portfolio</strong></a> • 
+    <a href="https://www.linkedin.com/in/codemo-dev"><strong>LinkedIn</strong></a>
   </p>
 </div>
 
 ---
 
-### ⚡ About Me
-I specialize in building scalable, high-performance web interfaces with a focus on clean code and user experience. Currently dedicated to mastering **JavaScript Algorithms** and modern **Front-End Architectures**.
+### ⚡ Professional Summary
+A dedicated Front-End Developer with a strong foundation in JavaScript and modern web technologies. I build high-performance, responsive applications with a focus on writing clean, scalable, and documented code.
 
-- 🔭 **Working on:** Advanced Problem Solving and Responsive UI Components.
-- 🚀 **Goal:** Building products that solve real-world problems.
-- 🧠 **Learning:** React.js Ecosystem & Performance Optimization.
-- 💬 **Ask me about:** HTML, CSS, JavaScript, and Web Performance.
+- 🔭 **Current Focus:** Enhancing UI performance and Mastering React.
+- 🧠 **Problem Solver:** Actively solving challenges to improve algorithmic thinking.
+- 💬 **Ask me about:** JavaScript DOM, CSS Animations, and Responsive Design.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🏆 Featured Projects
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Damson** | Comprehensive modern web template with advanced UI. | HTML5, CSS3, JS | [View Repo](https://github.com/codemo-dev/damson) |
+| **JS Calculator** | A functional calculator focused on DOM manipulation. | JavaScript (ES6+), CSS | [View Repo](https://github.com/codemo-dev/js-dom-calculator) |
+| **Problem Solving** | My journey through algorithmic challenges. | JavaScript | [View Repo](https://github.com/codemo-dev/problem-solving) |
+| **Landing Page** | High-quality responsive design with modern CSS. | HTML, CSS | [View Repo](https://github.com/codemo-dev/landing-page) |
+
+---
+
+### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 Selected Projects
-| Project Name | Tech Stack | Link |
-| :--- | :--- | :--- |
-| **Problem Solving** | JavaScript | [View Repo](https://github.com/codemo-dev/problem-solving) |
-| **Portfolio** | HTML/CSS/JS | *Coming Soon* |
-
----
-
-### 📊 GitHub Analytics
+### 📊 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codemo-dev&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemo-dev&theme=tokyonight&layout=compact&hide_border=true" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemo-dev&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codemo-dev&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemo-dev&theme=tokyonight&layout=compact&hide_border=false" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=codemo-dev&icon=0&color=0" alt="visitors" />
+  <img src="https://visitcount.itsvg.in/api?id=codemo-dev&icon=0&color=0" />
   <br>
-  <sub>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</sub>
+  <sub>"Building the future, one line of code at a time."</sub>
 </div>
