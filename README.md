@@ -19,13 +19,16 @@ A dedicated Front-End Developer with a strong foundation in JavaScript and moder
 
 ---
 
-### 🏆 Featured Projects
-| Project | Description | Tech Stack | Link |
+### 🏆 Featured Projects & Coding Journey
+
+| Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Damson** | Comprehensive modern web template with advanced UI. | HTML5, CSS3, JS | [View Repo](https://github.com/codemo-dev/damson) |
-| **JS Calculator** | A functional calculator focused on DOM manipulation. | JavaScript (ES6+), CSS | [View Repo](https://github.com/codemo-dev/js-dom-calculator) |
-| **Problem Solving** | My journey through algorithmic challenges. | JavaScript | [View Repo](https://github.com/codemo-dev/problem-solving) |
-| **Landing Page** | High-quality responsive design with modern CSS. | HTML, CSS | [View Repo](https://github.com/codemo-dev/landing-page) |
+| **Damson** | High-end professional web template. | HTML, CSS, JS | [View](https://github.com/codemo-dev/damson) |
+| **JS Calculator** | Advanced DOM manipulation & Logic. | JavaScript | [View](https://github.com/codemo-dev/js-dom-calculator) |
+| **Problem Solving** | Algorithmic challenges & logic building. | JavaScript | [View](https://github.com/codemo-dev/problem-solving) |
+| **OminDev** | **Team Collaboration** project (UI Focus). | HTML, CSS | [View](https://github.com/codemo-dev/omindev) |
+| **Elzero Tasks** | 4 Professional templates from Elzero Web School. | HTML, CSS | [View](https://github.com/codemo-dev/codemo) |
+| **My First Site** | Where it all started (First HTML/CSS project). | HTML, CSS | [View](https://github.com/codemo-dev/mohamed-website) |
 
 ---
 
