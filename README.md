@@ -44,14 +44,14 @@ A dedicated Front-End Developer with a strong foundation in JavaScript and moder
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codemo-dev&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemo-dev&theme=tokyonight&layout=compact&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codemo-dev&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codemo-dev&theme=tokyonight&layout=compact&hide_border=false" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=codemo-dev&icon=0&color=0" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcodemo-dev&count_bg=%2322272E&title_bg=%2330363D&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" />
   <br>
   <sub>"Building the future, one line of code at a time."</sub>
 </div>
