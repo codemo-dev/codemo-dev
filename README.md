@@ -125,3 +125,50 @@ Real-Time Team Alert
           │
           ▼
        Insights
+TAPPO is currently being developed as an experimental MVP while validating the product,
+the customer need, and the Saudi hospitality market.
+
+View TAPPO Repository →
+
+📌 Selected Work
+Project	Focus	Stack
+TAPPO	Saudi FoodTech platform for QR ordering and hospitality operations	React · Supabase
+Damson	Modern responsive web experience	HTML · CSS · JavaScript
+JS Calculator	DOM manipulation and JavaScript logic	JavaScript
+Problem Solving	Algorithms and logic building	JavaScript
+🎯 What I Care About
+Good UX
+   +
+Good Engineering
+   +
+Real Business Problems
+   =
+Useful Products
+
+I'm especially interested in:
+
+building practical products
+improving user experiences
+simplifying complex workflows
+turning ideas into usable systems
+learning through real product development
+📊 GitHub
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=codemo-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemo-dev&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+🤝 Let's Connect
+
+I'm open to connecting with:
+
+F&B founders · Restaurant operators · Product builders · Developers · Tech entrepreneurs
+
+Especially people interested in the future of FoodTech and hospitality technology in Saudi Arabia.
+
+<p align="center"> <a href="https://www.linkedin.com/in/codemo-dev"> <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Eshag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.linkedin.com/company/tappo-tech"> <img src="https://img.shields.io/badge/TAPPO-Tech-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://tappo-mvp.vercel.app/"> <img src="https://img.shields.io/badge/TAPPO-Product-171A2F?style=for-the-badge" /> </a> <a href="https://codemo-dev.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge" /> </a> </p>
+<div align="center">
+Building products, learning fast, and turning ideas into something people can use.
+</div> ```
